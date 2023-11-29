@@ -20,3 +20,6 @@
             console.log('[INFO] Server Running on port:', port)
         }
     })
+
+
+module.exports = app
